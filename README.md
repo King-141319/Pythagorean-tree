@@ -1,4 +1,4 @@
 # Pythagorean-tree
 Drawing Pythagorean tree through Haskell and Gloss library
 
-If your computer can't render the shape in a windows, you can access the markdown file above.
+You can access the markdown file above if your computer can't render the shape by opening a new window.
